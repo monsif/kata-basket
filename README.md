@@ -7,3 +7,5 @@ Implementing opening scenarios for a Basket.
 - as a user i need to show total cost of the basket
 - as a user i want to apply a discount on the basket
 ...
+
+Note: (In order to verify the system, please run the test classes).
